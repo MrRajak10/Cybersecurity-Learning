@@ -30,6 +30,7 @@ This repository serves as my cybersecurity knowledge base where I document:
 Cybersecurity-Learning/
 │
 ├── TryHackMe/
+├── CTF
 ├── SOC-Notes/
 ├── Tools/
 ├── Sigma-Rules/
