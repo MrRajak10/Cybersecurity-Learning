@@ -194,11 +194,3 @@ Windows puts almost everything in `C:\`. Linux organizes things strictly by *pur
 
 * **What it is:** A chaotic, free-for-all scratchpad. Any user can write files here. Every time the server reboots, everything in this folder is automatically permanently deleted.
 * **Cybersecurity Context:** Because everyone has "Write" access here, attackers love `/tmp`. When an attacker gets initial access as a low-level user, they will download their malicious scripts and hacking tools straight into the `/tmp` directory to run them, knowing the evidence will be wiped out upon the next reboot.
-
----
-
-# Moving Forward
-
-You are doing great. Taking the time to understand *why* a command is doing something, rather than just copying and pasting it, is what separates a beginner from a professional. Keep experimenting in the `/tmp` directory, try breaking and fixing permissions with `chmod`, and get comfortable reading those `man` pages!
-
-Whenever you finish your next room, drop your notes here, and we will unpack them together.
